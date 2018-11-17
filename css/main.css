@@ -39,10 +39,6 @@ div {
   margin-left: 0;
 }
 
-.more {
-  margin-left: 25%;
-}
-
 dl {
   border-top: 2px solid #9a816d;
   border-bottom: 2px solid #9a816d;
@@ -100,6 +96,7 @@ p {
 .link-card {
   text-decoration: none;
   background-color: #dcd4cd;
+  text-align: center;
 }
 
 .link-card:hover {
