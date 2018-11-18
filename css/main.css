@@ -14,13 +14,6 @@ html {
   font-family: Dosis, sans-serif;
 }
 
-section {
-  display: block;
-  background-color: #dcd4cd;
-  border: 3px solid #9a816d;
-  padding: 1em;
-}
-
 section:hover {
   background-color: #cabdb2;
 }
@@ -97,6 +90,9 @@ p {
   text-decoration: none;
   background-color: #dcd4cd;
   text-align: center;
+  display: block;
+  border: 3px solid #9a816d;
+  padding: 1em;
 }
 
 .link-card:hover {
